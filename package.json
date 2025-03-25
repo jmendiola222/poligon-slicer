@@ -1,0 +1,31 @@
+{
+  "name": "poligon-slicer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc; node dist/index.js",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmendiola222/poligon-slicer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmendiola222/poligon-slicer/issues"
+  },
+  "homepage": "https://github.com/jmendiola222/poligon-slicer#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.13",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0"
+  }
+}

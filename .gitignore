@@ -1,0 +1,10 @@
+# folders
+cache/
+coverage/
+dist/
+lib/
+node_modules/
+
+# files
+*.log
+*.tsbuildinfo

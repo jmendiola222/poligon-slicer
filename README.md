@@ -1,1 +1,1 @@
-# poligon-slicer
+# polygon-slicer
